@@ -18,13 +18,17 @@ pip install -e .
 ```
 
 ## 安卓版本仓库
-[点我访问安卓仓库]()
+[点我访问安卓仓库](https://github.com/L1Star03/MagicIQADemo)
 
 ## 自建MOS数据集
-[]()
+[RealCamera25k](https://kaggle.com/datasets/f3300c414d34d246e9a5e79b39873b4ce701f2f552a022e02cd364e2baca9c84)
 
+## Windows版部署展示
+<img src='./images/demo.png'>
 
-
+![演示gif](/images/demo.gif)
+## Android版部署展示
 
 ## 声明
 这个毕业设计研究参考了部分[CLIP-IQA](https://github.com/IceClear/CLIP-IQA/), [ZEN-IQA](https://github.com/mtakamichi/ZEN-IQA)以及[CLIP](https://github.com/openai/CLIP),并在原有模型基础上进行了一定的修改和完善，同时进行了轻量化部署。
+代码仓库更新中，UI部分将逐步上传，数据集处理的工具将在也将在后续上传
